@@ -1,0 +1,1236 @@
+{
+  "query_stats": {
+    "total_conversations": 216,
+    "total_queries": 1965,
+    "new_queries": 373,
+    "historical_queries": 1592,
+    "queries_per_conversation": [
+      {
+        "total": 8,
+        "new": 4,
+        "historical": 4
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 11,
+        "new": 2,
+        "historical": 9
+      },
+      {
+        "total": 7,
+        "new": 2,
+        "historical": 5
+      },
+      {
+        "total": 6,
+        "new": 3,
+        "historical": 3
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 16,
+        "new": 1,
+        "historical": 15
+      },
+      {
+        "total": 10,
+        "new": 2,
+        "historical": 8
+      },
+      {
+        "total": 24,
+        "new": 3,
+        "historical": 21
+      },
+      {
+        "total": 16,
+        "new": 1,
+        "historical": 15
+      },
+      {
+        "total": 12,
+        "new": 1,
+        "historical": 11
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 5,
+        "new": 3,
+        "historical": 2
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 16,
+        "new": 1,
+        "historical": 15
+      },
+      {
+        "total": 12,
+        "new": 2,
+        "historical": 10
+      },
+      {
+        "total": 8,
+        "new": 6,
+        "historical": 2
+      },
+      {
+        "total": 21,
+        "new": 4,
+        "historical": 17
+      },
+      {
+        "total": 6,
+        "new": 2,
+        "historical": 4
+      },
+      {
+        "total": 13,
+        "new": 4,
+        "historical": 9
+      },
+      {
+        "total": 27,
+        "new": 3,
+        "historical": 24
+      },
+      {
+        "total": 24,
+        "new": 3,
+        "historical": 21
+      },
+      {
+        "total": 14,
+        "new": 1,
+        "historical": 13
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 11,
+        "new": 2,
+        "historical": 9
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 4,
+        "new": 2,
+        "historical": 2
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 10,
+        "new": 1,
+        "historical": 9
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 13,
+        "new": 1,
+        "historical": 12
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 13,
+        "new": 1,
+        "historical": 12
+      },
+      {
+        "total": 16,
+        "new": 3,
+        "historical": 13
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 12,
+        "new": 2,
+        "historical": 10
+      },
+      {
+        "total": 7,
+        "new": 3,
+        "historical": 4
+      },
+      {
+        "total": 12,
+        "new": 1,
+        "historical": 11
+      },
+      {
+        "total": 15,
+        "new": 1,
+        "historical": 14
+      },
+      {
+        "total": 13,
+        "new": 1,
+        "historical": 12
+      },
+      {
+        "total": 9,
+        "new": 2,
+        "historical": 7
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 10,
+        "new": 4,
+        "historical": 6
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 10,
+        "new": 2,
+        "historical": 8
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 15,
+        "new": 2,
+        "historical": 13
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 11,
+        "new": 2,
+        "historical": 9
+      },
+      {
+        "total": 22,
+        "new": 1,
+        "historical": 21
+      },
+      {
+        "total": 17,
+        "new": 2,
+        "historical": 15
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 11,
+        "new": 4,
+        "historical": 7
+      },
+      {
+        "total": 13,
+        "new": 4,
+        "historical": 9
+      },
+      {
+        "total": 17,
+        "new": 3,
+        "historical": 14
+      },
+      {
+        "total": 13,
+        "new": 4,
+        "historical": 9
+      },
+      {
+        "total": 10,
+        "new": 2,
+        "historical": 8
+      },
+      {
+        "total": 3,
+        "new": 2,
+        "historical": 1
+      },
+      {
+        "total": 6,
+        "new": 2,
+        "historical": 4
+      },
+      {
+        "total": 26,
+        "new": 1,
+        "historical": 25
+      },
+      {
+        "total": 11,
+        "new": 2,
+        "historical": 9
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 12,
+        "new": 1,
+        "historical": 11
+      },
+      {
+        "total": 7,
+        "new": 2,
+        "historical": 5
+      },
+      {
+        "total": 9,
+        "new": 2,
+        "historical": 7
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 8,
+        "new": 2,
+        "historical": 6
+      },
+      {
+        "total": 13,
+        "new": 2,
+        "historical": 11
+      },
+      {
+        "total": 12,
+        "new": 1,
+        "historical": 11
+      },
+      {
+        "total": 18,
+        "new": 3,
+        "historical": 15
+      },
+      {
+        "total": 7,
+        "new": 2,
+        "historical": 5
+      },
+      {
+        "total": 10,
+        "new": 1,
+        "historical": 9
+      },
+      {
+        "total": 12,
+        "new": 7,
+        "historical": 5
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 6,
+        "new": 3,
+        "historical": 3
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 10,
+        "new": 1,
+        "historical": 9
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 6,
+        "new": 3,
+        "historical": 3
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 26,
+        "new": 2,
+        "historical": 24
+      },
+      {
+        "total": 13,
+        "new": 1,
+        "historical": 12
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 10,
+        "new": 1,
+        "historical": 9
+      },
+      {
+        "total": 6,
+        "new": 2,
+        "historical": 4
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 26,
+        "new": 2,
+        "historical": 24
+      },
+      {
+        "total": 10,
+        "new": 2,
+        "historical": 8
+      },
+      {
+        "total": 7,
+        "new": 2,
+        "historical": 5
+      },
+      {
+        "total": 10,
+        "new": 2,
+        "historical": 8
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 16,
+        "new": 1,
+        "historical": 15
+      },
+      {
+        "total": 5,
+        "new": 2,
+        "historical": 3
+      },
+      {
+        "total": 3,
+        "new": 2,
+        "historical": 1
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 5,
+        "new": 2,
+        "historical": 3
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 21,
+        "new": 3,
+        "historical": 18
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 16,
+        "new": 1,
+        "historical": 15
+      },
+      {
+        "total": 14,
+        "new": 2,
+        "historical": 12
+      },
+      {
+        "total": 8,
+        "new": 2,
+        "historical": 6
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 18,
+        "new": 2,
+        "historical": 16
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 4,
+        "new": 2,
+        "historical": 2
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 14,
+        "new": 1,
+        "historical": 13
+      },
+      {
+        "total": 8,
+        "new": 3,
+        "historical": 5
+      },
+      {
+        "total": 16,
+        "new": 1,
+        "historical": 15
+      },
+      {
+        "total": 15,
+        "new": 1,
+        "historical": 14
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 16,
+        "new": 1,
+        "historical": 15
+      },
+      {
+        "total": 5,
+        "new": 3,
+        "historical": 2
+      },
+      {
+        "total": 13,
+        "new": 1,
+        "historical": 12
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 14,
+        "new": 2,
+        "historical": 12
+      },
+      {
+        "total": 18,
+        "new": 6,
+        "historical": 12
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 4,
+        "new": 2,
+        "historical": 2
+      },
+      {
+        "total": 12,
+        "new": 1,
+        "historical": 11
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 15,
+        "new": 4,
+        "historical": 11
+      },
+      {
+        "total": 23,
+        "new": 1,
+        "historical": 22
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 7,
+        "new": 3,
+        "historical": 4
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 5,
+        "new": 4,
+        "historical": 1
+      },
+      {
+        "total": 9,
+        "new": 6,
+        "historical": 3
+      },
+      {
+        "total": 9,
+        "new": 2,
+        "historical": 7
+      },
+      {
+        "total": 7,
+        "new": 2,
+        "historical": 5
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 16,
+        "new": 3,
+        "historical": 13
+      },
+      {
+        "total": 4,
+        "new": 2,
+        "historical": 2
+      },
+      {
+        "total": 7,
+        "new": 1,
+        "historical": 6
+      },
+      {
+        "total": 5,
+        "new": 3,
+        "historical": 2
+      },
+      {
+        "total": 5,
+        "new": 2,
+        "historical": 3
+      },
+      {
+        "total": 13,
+        "new": 4,
+        "historical": 9
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 14,
+        "new": 3,
+        "historical": 11
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 13,
+        "new": 4,
+        "historical": 9
+      },
+      {
+        "total": 8,
+        "new": 3,
+        "historical": 5
+      },
+      {
+        "total": 9,
+        "new": 1,
+        "historical": 8
+      },
+      {
+        "total": 5,
+        "new": 2,
+        "historical": 3
+      },
+      {
+        "total": 3,
+        "new": 1,
+        "historical": 2
+      },
+      {
+        "total": 9,
+        "new": 2,
+        "historical": 7
+      },
+      {
+        "total": 8,
+        "new": 1,
+        "historical": 7
+      },
+      {
+        "total": 5,
+        "new": 2,
+        "historical": 3
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 7,
+        "new": 3,
+        "historical": 4
+      },
+      {
+        "total": 14,
+        "new": 6,
+        "historical": 8
+      },
+      {
+        "total": 8,
+        "new": 2,
+        "historical": 6
+      },
+      {
+        "total": 8,
+        "new": 3,
+        "historical": 5
+      },
+      {
+        "total": 7,
+        "new": 3,
+        "historical": 4
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 6,
+        "new": 2,
+        "historical": 4
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 11,
+        "new": 1,
+        "historical": 10
+      },
+      {
+        "total": 2,
+        "new": 1,
+        "historical": 1
+      },
+      {
+        "total": 13,
+        "new": 1,
+        "historical": 12
+      },
+      {
+        "total": 4,
+        "new": 1,
+        "historical": 3
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 16,
+        "new": 5,
+        "historical": 11
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 13,
+        "new": 1,
+        "historical": 12
+      },
+      {
+        "total": 27,
+        "new": 3,
+        "historical": 24
+      },
+      {
+        "total": 10,
+        "new": 2,
+        "historical": 8
+      },
+      {
+        "total": 10,
+        "new": 1,
+        "historical": 9
+      },
+      {
+        "total": 7,
+        "new": 2,
+        "historical": 5
+      },
+      {
+        "total": 6,
+        "new": 1,
+        "historical": 5
+      },
+      {
+        "total": 5,
+        "new": 1,
+        "historical": 4
+      }
+    ]
+  },
+  "clustering_summary": {
+    "n_clusters": 10,
+    "cluster_sizes": {
+      "9": 52,
+      "4": 50,
+      "8": 33,
+      "7": 20,
+      "2": 69,
+      "5": 39,
+      "0": 23,
+      "3": 25,
+      "6": 45,
+      "1": 17
+    }
+  },
+  "hierarchy_summary": {
+    "cluster_stats": {
+      "0": {
+        "total_unique_queries": 23,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "What kind of plan can I change to? Is there any within a monthly fee of 50, with 10GB of data per month?",
+          "Is there a cheaper monthly plan with more data?",
+          "Could you recommend a plan for me, without the need for broadband?",
+          "What kinds of data-heavy plans do you currently offer?",
+          "The 128 plan is too expensive. Every month, I still have unused data, but the money has been deducted. I have no idea how it's deducted. Can we switch to a plan around 30G? I no longer want to use the 128 one."
+        ]
+      },
+      "1": {
+        "total_unique_queries": 17,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "My current plan costs 20 yuan per month, but I don't receive any data every month. For instance, are there any other plans available?",
+          "It seems to be 20 yuan/30G. Why are others able to process it?",
+          "Isn't it the 20 yuan data package that is displayed?",
+          "I don't want to dwell on this. If there are no better discounts, just switch to the 8 yuan package. What is the process for porting my number now?",
+          "Takes effect next month. Flower Card. 29 yuan Flower Card package."
+        ]
+      },
+      "2": {
+        "total_unique_queries": 69,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "Why can't I use the 15G designated data package I've activated on Bilibili? I'm still using my own data.",
+          "What cost-effective packages are available for activating a new card?",
+          "Is this mobile cloud drive to be downloaded?",
+          "Hello, could you please help me change 8 voice to Number Protection 8, 30 minutes, with all other settings remaining the same.",
+          "It's also a mobile app. May I ask what cost-effective data plans I can activate? I still have 8 yuan voice credit for the next month."
+        ]
+      },
+      "3": {
+        "total_unique_queries": 25,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "Traffic within ten.",
+          "Which apps are designated as directed traffic?",
+          "Are there no other preferential packages? This directed traffic is also useless.",
+          "What does the directed traffic package include?",
+          "With higher traffic."
+        ]
+      },
+      "4": {
+        "total_unique_queries": 50,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "Besides this, is there a minimum package that includes data?",
+          "Are there any promotions or discounts on data usage?",
+          "Is there any promotion available for my data package?",
+          "Data Package",
+          "What kind of data packages are available in [place name]?"
+        ]
+      },
+      "5": {
+        "total_unique_queries": 39,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "Human Assistance. My data is running out, can you give me some data?",
+          "Can you please send me some data? It's quite expensive.",
+          "Can data be gifted?",
+          "Can this data be used as long as you scroll through TikTok?",
+          "More data is preferred, having call duration is sufficient, it doesn't matter if it's a bit shorter."
+        ]
+      },
+      "6": {
+        "total_unique_queries": 39,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "Do you have 29?",
+          "All right.",
+          "Isn't it universally applicable across the country?",
+          "Isn't there the kind that can be used continuously?",
+          "Yes. Could you please remind me of the specifics inside? I seem to have forgotten."
+        ]
+      },
+      "7": {
+        "total_unique_queries": 17,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "What does this targeted traffic mean? Can it be used with any app?",
+          "Alright. What does the targeted traffic package include?",
+          "Which is the targeted traffic?",
+          "Alright, let's proceed this way. Which app can be used for targeted traffic?",
+          "Target which apps."
+        ]
+      },
+      "8": {
+        "total_unique_queries": 32,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "What else? How much does ten gigabytes cost?",
+          "Original price 20? Do you have a bit more?",
+          "Insufficient.",
+          "Is there any normal ones? Like, how much price for how many GBs.",
+          "No, it's too expensive."
+        ]
+      },
+      "9": {
+        "total_unique_queries": 51,
+        "total_responses": 0,
+        "avg_frequency": 0.0,
+        "queries_sample": [
+          "What is currently the most suitable minimum package offered by your company?",
+          "Is there any cheaper and more cost-effective package? It would only be used during student holidays.",
+          "What packages are available?",
+          "Are there any recommended good packages available?",
+          "Are all of these available for free?"
+        ]
+      }
+    },
+    "total_unique_queries": 362,
+    "query_frequency_distribution": {},
+    "context_analysis": {}
+  },
+  "chain_summary": {
+    "total_chains": 373,
+    "avg_chain_length": 1.7345844504021448
+  }
+}

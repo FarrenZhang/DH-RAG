@@ -1,0 +1,5 @@
+scripts/output/logs/*
+scripts/__pycache__/*
+scripts/src/__pycache__/*
+data/mobilecs2_data/embedding_data/passages_00
+scripts/output/*

@@ -1,0 +1,5 @@
+2024-12-04 11:36:36,628 - INFO - Loaded data with 216 conversations
+2024-12-04 11:36:36,629 - INFO - Analysis complete: 1965 total queries
+2024-12-04 11:36:38,881 - INFO - Clustering complete: 10 clusters created
+2024-12-04 11:36:38,894 - INFO - Hierarchical analysis complete
+2024-12-04 11:36:38,899 - INFO - Chain of thought analysis complete: 373 chains analyzed

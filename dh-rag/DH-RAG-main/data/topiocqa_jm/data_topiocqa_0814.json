@@ -1,0 +1,1116 @@
+{
+    "conversation_1": {
+        "log": [
+            {
+                "user": "when will the new dunkirk film be released on dvd",
+                "system": "18 December 2017",
+                "api_query": ""
+            },
+            {
+                "user": "what is this film about?",
+                "system": "Dunkirk evacuation of World War II",
+                "api_query": ""
+            },
+            {
+                "user": "can you mention a few members of the cast?",
+                "system": "Fionn Whitehead, Tom Glynn-Carney, Jack Lowden, Harry Styles",
+                "api_query": ""
+            },
+            {
+                "user": "where was it shot?",
+                "system": "Dunkirk and Urk, Netherlands",
+                "api_query": ""
+            },
+            {
+                "user": "can you tell me anything about the latter place's past?",
+                "system": "Until 1475 the High and Low Lordship of Urk and Emmeloord was in the hands of the Van Kuinre family",
+                "api_query": ""
+            },
+            {
+                "user": "what does the economy of this place depend upon?",
+                "system": "Fishery",
+                "api_query": ""
+            },
+            {
+                "user": "is there any waterbody nearby ?",
+                "system": "North Sea",
+                "api_query": ""
+            },
+            {
+                "user": "what kind of marine organisms are found in this sea?",
+                "system": "Cod, haddock, whiting, saithe, plaice, sole, mackerel, herring, pouting, sprat, and sandeel",
+                "api_query": ""
+            },
+            {
+                "user": "what kind of minerals are found in this sea?",
+                "system": "Sand, gravel and rolled pieces of amber",
+                "api_query": ""
+            },
+            {
+                "user": "does this place experiences any natural hazards?",
+                "system": "Storm surges and tsunamis",
+                "api_query": ""
+            },
+            {
+                "user": "are whales captured here?",
+                "system": "Whaling was an important economic activity from the 9th until the 13th century by by 1902 the whaling had ended",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "any particular whale species that was hunted?",
+                "system": "Gray whale",
+                "api_query": ""
+            },
+            {
+                "user": "where are they found?",
+                "system": "Eastern North Pacific and western North Pacific",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "what do they feed on?",
+                "system": "Benthic crustaceans",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_2": {
+        "log": [
+            {
+                "user": "the primary high energy molecule in human metabolism is",
+                "system": "Adenosine triphosphate (ATP)",
+                "api_query": ""
+            },
+            {
+                "user": "what is catabolism?",
+                "system": "It is the set of metabolic processes that breaks down large molecules.",
+                "api_query": ""
+            },
+            {
+                "user": "which hormones are related to it?",
+                "system": "Cortisol, glucagon, adrenaline, cytokines, orexin and melatonin.",
+                "api_query": ""
+            },
+            {
+                "user": "what is the emotional response due to the third one?",
+                "system": "Fear.",
+                "api_query": ""
+            },
+            {
+                "user": "how does the first hormone related to metabolism of glucose?",
+                "system": "Cortisol stimulates the synthesis of 'new' glucose from non-carbohydrate sources; this is known as gluconeogenesis..",
+                "api_query": ""
+            },
+            {
+                "user": "is process resisted by insulin?",
+                "system": "Yes.",
+                "api_query": ""
+            },
+            {
+                "user": "when was this substance which resists the process discovered?",
+                "system": "1921.",
+                "api_query": ""
+            },
+            {
+                "user": "can it be extracted?",
+                "system": "Yes.",
+                "api_query": ""
+            },
+            {
+                "user": "from where?",
+                "system": "Pancreas.",
+                "api_query": ""
+            },
+            {
+                "user": "can we find in plants the last hormone in the list of hormones mentioned above?",
+                "system": "Yes.",
+                "api_query": ""
+            },
+            {
+                "user": "is it responsible for any memory related disease?",
+                "system": "No.",
+                "api_query": ""
+            },
+            {
+                "user": "how does it affect immune system?",
+                "system": "An antiinflammatory effect seems to be the most relevant.",
+                "api_query": ""
+            },
+            {
+                "user": "is it also found in animals?",
+                "system": "Yes.",
+                "api_query": ""
+            },
+            {
+                "user": "what is its function in animals?",
+                "system": "Seasonal functions such as reproduction, behavior, coat growth, and camouflage coloring.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "can it be given through supplements?",
+                "system": "Melatonin is categorized by the US Food and Drug Administration (FDA) as a dietary supplement.",
+                "api_query": "[QA]"
+            }
+        ]
+    },
+    "conversation_3": {
+        "log": [
+            {
+                "user": "what does the song hotel california by the eagles mean",
+                "system": "Eagles described it as their \"interpretation of the high life in Los Angeles\"",
+                "api_query": ""
+            },
+            {
+                "user": "what is hotel california?",
+                "system": "Title track from the Eagles' album",
+                "api_query": ""
+            },
+            {
+                "user": "who is the singer of this song?",
+                "system": "Don Henley",
+                "api_query": ""
+            },
+            {
+                "user": "when did this song release?",
+                "system": "February 1977",
+                "api_query": ""
+            },
+            {
+                "user": "where was it recorded?",
+                "system": "Record Plant, Los Angeles and Criteria Studios, Miami.",
+                "api_query": ""
+            },
+            {
+                "user": "when was the first one established?",
+                "system": "1968",
+                "api_query": ""
+            },
+            {
+                "user": "does it also have branches in other places?",
+                "system": "Yes, Los Angeles branch and Sausalito, California, location",
+                "api_query": ""
+            },
+            {
+                "user": "did they also have a fan club?",
+                "system": "Yes, Jim Keltner Fan Club.",
+                "api_query": ""
+            },
+            {
+                "user": "how did the song perform according to the chart?",
+                "system": "Number one position on the \"Billboard\" Hot 100 and reached the top ten of several international charts.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "can you tell me one interpretation that was made about this song?",
+                "system": "Henley said \"a journey from innocence to experience\" to \"a sociopolitical statement\".",
+                "api_query": ""
+            },
+            {
+                "user": "did the song belong to a band or a single singer?",
+                "system": "It belongs to an album of the same name",
+                "api_query": ""
+            },
+            {
+                "user": "did the song win any award?",
+                "system": "Yes, Grammy Award",
+                "api_query": ""
+            },
+            {
+                "user": "were there any cover versions of this song?",
+                "system": "Yes, flamenco version, The Orb version, etc",
+                "api_query": "[QA]"
+            }
+        ]
+    },
+    "conversation_4": {
+        "log": [
+            {
+                "user": "who sang all i want for christmas in 1995",
+                "system": "Mariah Carey.",
+                "api_query": ""
+            },
+            {
+                "user": "who is she?",
+                "system": "She is an American singer-songwriter and actress.",
+                "api_query": ""
+            },
+            {
+                "user": "what was her early days like?",
+                "system": "Racial tensions prevented the Carey family from integrating into their community though she excelled in the arts, such as music and literature in school.",
+                "api_query": ""
+            },
+            {
+                "user": "what are some famous songs she performed during 2010?",
+                "system": "Oh Santa! and Auld Lang Syne (The New Year's Anthem).",
+                "api_query": ""
+            },
+            {
+                "user": "who composed the former mentioned one?",
+                "system": "Mariah Carey.",
+                "api_query": ""
+            },
+            {
+                "user": "how did it perform in the charts?",
+                "system": "It became a record-breaking entry on the \"Billboard\" Adult Contemporary songs chart.",
+                "api_query": ""
+            },
+            {
+                "user": "how was it received critically?",
+                "system": "There were mixed reviews.",
+                "api_query": ""
+            },
+            {
+                "user": "what was her other song about?",
+                "system": "It is a re-write of \"Auld Lang Syne\" and Robert Burns and Mariah Carey had re-composed the poem into a house song.",
+                "api_query": ""
+            },
+            {
+                "user": "how was it received critically?",
+                "system": "Negative responses from critics.",
+                "api_query": ""
+            },
+            {
+                "user": "what are some philanthropic activities this singer is associated with?",
+                "system": "The Fresh Air Fund and the Make-A-Wish Foundation.",
+                "api_query": ""
+            },
+            {
+                "user": "what does the latter mentioned foundation do?",
+                "system": "They help fulfill the wishes of children with a critical illness between the ages of 2 and 18 years old.",
+                "api_query": ""
+            },
+            {
+                "user": "what is her style of music?",
+                "system": "Love is the subject of the majority of Carey's lyrics, although she has written about themes such as loss, sex, race, abuse and spirituality.",
+                "api_query": ""
+            },
+            {
+                "user": "what are some awards she has received?",
+                "system": "The World Music Awards' Best Selling Female Artist of the Millennium, the Grammy Award for Best New Artist in 1991, and \"Billboard\"s Special Achievement Award for the Artist of the Decade",
+                "api_query": ""
+            },
+            {
+                "user": "who did she marry?",
+                "system": "Tommy Mottola.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "what is his profession?",
+                "system": "He is an American music executive, producer and author.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "which music labels is he associated with?",
+                "system": "The Columbia label.",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_5": {
+        "log": [
+            {
+                "user": "of the four galilean moons which is the closest to jupiter",
+                "system": "Io",
+                "api_query": ""
+            },
+            {
+                "user": "who discovered it?",
+                "system": "Galileo Galilei",
+                "api_query": ""
+            },
+            {
+                "user": "who was he?",
+                "system": "An Italian astronomer, physicist and engineer.",
+                "api_query": ""
+            },
+            {
+                "user": "has he invented anything?",
+                "system": "Thermoscope",
+                "api_query": ""
+            },
+            {
+                "user": "what is it used for?",
+                "system": "It is a device that shows changes in temperature.",
+                "api_query": ""
+            },
+            {
+                "user": "is there any references of him in any art form?",
+                "system": "Yes, in the \"opera\" section of the Queen song, \"Bohemian Rhapsody\".",
+                "api_query": ""
+            },
+            {
+                "user": "what is this rhapsody?",
+                "system": "A song by the British rock band Queen.",
+                "api_query": ""
+            },
+            {
+                "user": "who wrote it?",
+                "system": "Freddie Mercury",
+                "api_query": ""
+            },
+            {
+                "user": "when was it released?",
+                "system": "1975",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "does it belong to any album?",
+                "system": "\"A Night at the Opera\"",
+                "api_query": "[QA]"
+            }
+        ]
+    },
+    "conversation_6": {
+        "log": [
+            {
+                "user": "when did victor start on young and restless",
+                "system": "February 8, 1980",
+                "api_query": ""
+            },
+            {
+                "user": "who is victor newman?",
+                "system": "Victor Newman is a fictional character from the American CBS soap opera \"The Young and the Restless\".",
+                "api_query": ""
+            },
+            {
+                "user": "who plays his role?",
+                "system": "Eric Braeden",
+                "api_query": ""
+            },
+            {
+                "user": "what is the full form of the channel you just mentioned?",
+                "system": "The Columbia Broadcasting System.",
+                "api_query": ""
+            },
+            {
+                "user": "when was it established?",
+                "system": "1974",
+                "api_query": ""
+            },
+            {
+                "user": "who owns it?",
+                "system": "ViacomCBS through its CBS Entertainment Group division.",
+                "api_query": ""
+            },
+            {
+                "user": "where is it located?",
+                "system": "At the CBS Building in New York City.",
+                "api_query": ""
+            },
+            {
+                "user": "who created the original character?",
+                "system": "William J. Bell and Lee Phillip Bell.",
+                "api_query": ""
+            },
+            {
+                "user": "how was he received?",
+                "system": "UNANSWERABLE",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "is the original character married?",
+                "system": "Yes - With Julia Newman.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "describe him in a few words",
+                "system": "He was a despicable, contemptible, unfaithful wife abuser.",
+                "api_query": ""
+            },
+            {
+                "user": "what other shows or movies has the actor you mentioned before been a part of?",
+                "system": "Combat, Morituri, Twelve O'Clock High, Blue Light.",
+                "api_query": ""
+            },
+            {
+                "user": "is he still alive?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_7": {
+        "log": [
+            {
+                "user": "yo la tengo i can hear the heart beating as one full album",
+                "system": "True, its their eighth studio album.",
+                "api_query": ""
+            },
+            {
+                "user": "when was it released?",
+                "system": "April 22, 1997.",
+                "api_query": ""
+            },
+            {
+                "user": "what was the name of the record label that released it?",
+                "system": "Matador Records.",
+                "api_query": ""
+            },
+            {
+                "user": "how was this album received by public?",
+                "system": "It received considerable acclaim from music critics.",
+                "api_query": ""
+            },
+            {
+                "user": "can you mention a few songs from the album?",
+                "system": "\"Autumn Sweater\", \"Sugarcube\", and \"Little Honda\".",
+                "api_query": ""
+            },
+            {
+                "user": "who owns the above mentioned record company?",
+                "system": "Patrick Amory is Matador's label manager.",
+                "api_query": ""
+            },
+            {
+                "user": "when was this company launched?",
+                "system": "1989.",
+                "api_query": ""
+            },
+            {
+                "user": "can you name some others artists they have launched?",
+                "system": "M. Ward, Sleater-Kinney, Modest Mouse, and Superchunk to name a few.",
+                "api_query": ""
+            },
+            {
+                "user": "what can you tell me about the above mentioned manager?",
+                "system": "He is a historian and an executive in the recorded music industry.",
+                "api_query": ""
+            },
+            {
+                "user": "where is he from?",
+                "system": "New York City.",
+                "api_query": ""
+            },
+            {
+                "user": "where did he complete his graduation from?",
+                "system": "Commonwealth School.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "who established this school?",
+                "system": "Charles E. Merrill Jr. founded the school.",
+                "api_query": ""
+            },
+            {
+                "user": "did the school face any conflict with regards to its brand name?",
+                "system": "Yes, in June 2016, the Boston Globe reported that Commonwealth School sued Commonwealth Academy, a high school in Springfield, Massachusetts, over the use of the name \"Commonwealth\"",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "how has the school performed till date, did it make a mark in the education industry?",
+                "system": "Academically, the school is one of the nation's elite.",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_8": {
+        "log": [
+            {
+                "user": "in gossip girl who is blair's baby daddy",
+                "system": "Prince Louis",
+                "api_query": ""
+            },
+            {
+                "user": "who is blair waldorf?",
+                "system": "One of the main characters of \"Gossip Girl\"",
+                "api_query": ""
+            },
+            {
+                "user": "what is gossip girl?",
+                "system": "American teen drama television series",
+                "api_query": ""
+            },
+            {
+                "user": "who is the director of this television series?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "when did it first come out?",
+                "system": "September 19, 2007",
+                "api_query": ""
+            },
+            {
+                "user": "what role does blair play in it?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "are there novel series?",
+                "system": "Yes. American young adult novel series",
+                "api_query": ""
+            },
+            {
+                "user": "who wrote this story?",
+                "system": "Cecily von Ziegesar",
+                "api_query": ""
+            },
+            {
+                "user": "has he written other book series apart from the former one?",
+                "system": "The It Girl, Psycho Killer",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "has he also written for television series?",
+                "system": "No but \"Gossip Girl\" was adapted for television",
+                "api_query": ""
+            },
+            {
+                "user": "when did that happen?",
+                "system": "2007",
+                "api_query": ""
+            },
+            {
+                "user": "and on which channel did it air?",
+                "system": "The CW network",
+                "api_query": "[QA]"
+            }
+        ]
+    },
+    "conversation_9": {
+        "log": [
+            {
+                "user": "what is the total length of the lord of the rings movies",
+                "system": "Two hours each trilogy",
+                "api_query": ""
+            },
+            {
+                "user": "what is it's story about?",
+                "system": "It follows the hobbit Frodo Baggins as he and the Fellowship embark on a quest to destroy the One Ring, to ensure the destruction of its maker, the Dark Lord Sauron.",
+                "api_query": ""
+            },
+            {
+                "user": "when was the first movie in the series released?",
+                "system": "2001",
+                "api_query": ""
+            },
+            {
+                "user": "who produced it?",
+                "system": "New Line Cinema with the co-production of WingNut Films",
+                "api_query": ""
+            },
+            {
+                "user": "where is the first production company located?",
+                "system": "New York City",
+                "api_query": ""
+            },
+            {
+                "user": "did the company announce it's merger with any other company?",
+                "system": "Yes, Warner Bros.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "when did that happen?",
+                "system": "June, 2014",
+                "api_query": ""
+            },
+            {
+                "user": "did the group you just mentioned produce any other famous movie?",
+                "system": "Yes, \"Kings Row\", \"Casablanca\" and \"Cheyenne\"",
+                "api_query": ""
+            },
+            {
+                "user": "what is the genre of the first film?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "who directed it?",
+                "system": "Sam Wood",
+                "api_query": "[QA]"
+            }
+        ]
+    },
+    "conversation_10": {
+        "log": [
+            {
+                "user": "what is quoll?",
+                "system": "They  are carnivorous marsupials.",
+                "api_query": ""
+            },
+            {
+                "user": "where are they found?",
+                "system": "Australia and New Guinea",
+                "api_query": ""
+            },
+            {
+                "user": "where did the latter get it's name from?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "what kind of people are seen here?",
+                "system": "The island is presently populated by almost a thousand different tribal groups",
+                "api_query": ""
+            },
+            {
+                "user": "what does the animal we talked about feed on?",
+                "system": "The smaller ones primarily eat insects, birds, frogs, lizards and fruit; the larger species eat birds, reptiles, and mammals, including echidnas and possums.",
+                "api_query": ""
+            },
+            {
+                "user": "where does it live?",
+                "system": "Each species of quoll lives in distinct geographical areas.",
+                "api_query": ""
+            },
+            {
+                "user": "were any attempts made to protect or conserve these?",
+                "system": "The Department of Environment and Conservation (Western Australia)",
+                "api_query": ""
+            },
+            {
+                "user": "what did they do?",
+                "system": "They monitors western quoll populations in the Jarrah Forest as part of its faunal management programs",
+                "api_query": ""
+            },
+            {
+                "user": "what threat on them did lead to do so?",
+                "system": "Predators such as foxes and cats prey on quolls and compete with them for food.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "when did the aforementioned department come into action?",
+                "system": "1 July 2006",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "what is its main objective?",
+                "system": "It focuses on environmental regulation, approvals and appeals processes, and pollution prevention.",
+                "api_query": ""
+            },
+            {
+                "user": "what sort of vehicles are being used by it?",
+                "system": "pumpers, water bombers and tankers",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_11": {
+        "log": [
+            {
+                "user": "when did arsenal last won the fa cup",
+                "system": "2005",
+                "api_query": ""
+            },
+            {
+                "user": "how many league titles have they won?",
+                "system": "Thirteen",
+                "api_query": ""
+            },
+            {
+                "user": "who owns the club?",
+                "system": "Kroenke Sports",
+                "api_query": ""
+            },
+            {
+                "user": "when was this club established?",
+                "system": "In October 1886",
+                "api_query": ""
+            },
+            {
+                "user": "who are their fiercest rival?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "can you name some of their most successful managers?",
+                "system": "Ars\u00e8ne Wenger, Herbert Chapman and Tom Whittaker.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "for how long was the second person in charge of the club?",
+                "system": "From 1925 to 1934",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "has he managed any other clubs?",
+                "system": "Leeds City",
+                "api_query": ""
+            },
+            {
+                "user": "what are some of his most important contributions to the game of football?",
+                "system": "Chapman was one of the first football managers in the modern sense of the word, taking full charge of the team, rather than letting board members pick the side. As well as his tactical innovations, he was a strong believer in physical fitness in football",
+                "api_query": ""
+            },
+            {
+                "user": "as a player, which clubs was he associated with?",
+                "system": "Ashton North End",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_12": {
+        "log": [
+            {
+                "user": "at the beginning of world war i great britain",
+                "system": "Great Britain was a leading Allied Power during the First World War",
+                "api_query": ""
+            },
+            {
+                "user": "who was the prime minister of u.k. then?",
+                "system": "H. H. Asquith",
+                "api_query": ""
+            },
+            {
+                "user": "which political party did he represent?",
+                "system": "Liberal Party",
+                "api_query": ""
+            },
+            {
+                "user": "where was he born?",
+                "system": "Morley, in the West Riding of Yorkshire",
+                "api_query": ""
+            },
+            {
+                "user": "who all were there in his family?",
+                "system": "Joseph Dixon Asquith his father,  Emily his mother. The couple also had three daughters, of whom only one survived infancy.",
+                "api_query": ""
+            },
+            {
+                "user": "what did he start his career as?",
+                "system": "After his graduation in 1874, Asquith spent several months coaching Viscount Lymington, the 18-year-old son and heir of the Earl of Portsmouth. He found the experience of aristocratic country-house life agreeable.",
+                "api_query": ""
+            },
+            {
+                "user": "were women able to cast their votes then?",
+                "system": "Asquith had opposed votes for women as early as 1882, and he remained well known as an adversary throughout his time as prime minister.",
+                "api_query": ""
+            },
+            {
+                "user": "what were his leisure time activities?",
+                "system": "Reading the classics, poetry and a vast range of English literature consumed much of his time. Travelling, often to country houses owned by members of Margot's family, was almost constant, Asquith being a devoted \"weekender\".",
+                "api_query": ""
+            },
+            {
+                "user": "had he been a part of any notable events?",
+                "system": "Failures in both the East and the West began a tide of events that was to overwhelm Asquith's Liberal Government.  By the resignation of Admiral Fisher after continuing disagreements with Churchill and in frustration at the disappointing developments in Gallipoli.",
+                "api_query": ""
+            },
+            {
+                "user": "when did he resign?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "when did he die?",
+                "system": "15 February 1928",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "who was his descendant?",
+                "system": "Among his living descendants are his great-granddaughter, the actress Helena Bonham Carter (b. 1966), and two great-grandsons, Dominic Asquith, British High Commissioner to India since March 2016, and Raymond Asquith, 3rd Earl of Oxford and Asquith, who inherited Asquith's earldom.",
+                "api_query": ""
+            },
+            {
+                "user": "when was his party formed?",
+                "system": "UNANSWERABLE",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "were any movies filmed in his birthplace?",
+                "system": "Yes,  Morley is a setting for David Peace's \"Red Riding Quartet\" novel and 2009 television series.  \"Emmerdale\" often use Morley for filming court and wedding scenes in the town hall.",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_13": {
+        "log": [
+            {
+                "user": "name the fields in which nobel prize is given",
+                "system": "Physics, Chemistry, Physiology or Medicine, Literature, and Peace.",
+                "api_query": ""
+            },
+            {
+                "user": "why is this prize given?",
+                "system": "To those who, during the preceding year, have conferred the greatest benefit to humankind",
+                "api_query": ""
+            },
+            {
+                "user": "which organization gives away the prizes?",
+                "system": "The Nobel Foundation.",
+                "api_query": ""
+            },
+            {
+                "user": "when was this formed?",
+                "system": "29 June 1900.",
+                "api_query": ""
+            },
+            {
+                "user": "are nominations after death allowed?",
+                "system": "No.",
+                "api_query": ""
+            },
+            {
+                "user": "how are people nominated for this?",
+                "system": "Nomination forms are sent by the Nobel Committee.",
+                "api_query": ""
+            },
+            {
+                "user": "by whom was the concept of these prizes first created?",
+                "system": "Alfred Nobel.",
+                "api_query": ""
+            },
+            {
+                "user": "who was he?",
+                "system": "He was a Swedish chemist, engineer, inventor, businessman, and philanthropist.",
+                "api_query": ""
+            },
+            {
+                "user": "where was he born?",
+                "system": "Stockholm.",
+                "api_query": ""
+            },
+            {
+                "user": "what did he invent?",
+                "system": "He held 355 different patents, dynamite being the most famous.",
+                "api_query": ""
+            },
+            {
+                "user": "what is this patented thing that you just mentioned?",
+                "system": "It is an explosive made of nitroglycerin, sorbents (such as powdered shells or clay) and stabilizers.",
+                "api_query": ""
+            },
+            {
+                "user": "how can it be stored?",
+                "system": "Modern packaging places dynamite into sealed plastic bags, and using wax-coated cardboard.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "what are a few rules regarding this explosive?",
+                "system": "Explosive manuals recommend repeated turning over of boxes of dynamite in storage as sticks of dynamite will \"weep\" or \"sweat\" nitroglycerin, which can then pool in the bottom of the box or storage area.",
+                "api_query": ""
+            },
+            {
+                "user": "did the scientist, who is credited with the invention of this thing face any criticism?",
+                "system": "Yes, he was condemned for profiting from the sales of arms.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "when did he die?",
+                "system": "10 December 1896.",
+                "api_query": ""
+            },
+            {
+                "user": "how ?",
+                "system": "Stroke.",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_14": {
+        "log": [
+            {
+                "user": "what is the man trap?",
+                "system": "The first episode of of the American science fiction television series",
+                "api_query": ""
+            },
+            {
+                "user": "who are the characters?",
+                "system": "Professor Robert Crater, his wife Nancy, Captain Kirk, Chief Medical Officer Dr. Leonard McCoy, and Crewman Darnell",
+                "api_query": ""
+            },
+            {
+                "user": "what is the name of the series?",
+                "system": "Star Trek",
+                "api_query": ""
+            },
+            {
+                "user": "who wrote the script of this episode?",
+                "system": "Gene Roddenberry",
+                "api_query": ""
+            },
+            {
+                "user": "who is the director?",
+                "system": "Marc Daniels",
+                "api_query": ""
+            },
+            {
+                "user": "when was it aired?",
+                "system": "September 8, 1966",
+                "api_query": ""
+            },
+            {
+                "user": "what was its critical response?",
+                "system": "\"The Daily Reporter\" said that \"Star Trek\" had the \"usual far-fetched suppositions\" present in other science fiction works, but praise was given to the acting skills of Shatner and the plots of the initial episodes",
+                "api_query": ""
+            },
+            {
+                "user": "who plays the protagonist ?",
+                "system": "Alfred Ryder",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "what is his role?",
+                "system": "The only known inhabitants of the planet M-113, Professor Robert Crater",
+                "api_query": ""
+            },
+            {
+                "user": "what can you tell me about his personal life?",
+                "system": "He began to act aged eight and later studied with Robert Lewis and Lee Strasberg",
+                "api_query": ""
+            },
+            {
+                "user": "who is the latter?",
+                "system": "Polish-born American actor, director and theatre practitioner",
+                "api_query": "[QA]"
+            }
+        ]
+    },
+    "conversation_15": {
+        "log": [
+            {
+                "user": "when was \"human nature\" released?",
+                "system": "July 3, 1983",
+                "api_query": ""
+            },
+            {
+                "user": "is it michael jackson song?",
+                "system": "Yes",
+                "api_query": ""
+            },
+            {
+                "user": "who was the record label for it?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "where did its live performances take place?",
+                "system": "Jacksons' Victory Tour, Bad World Tour and Dangerous World Tour.",
+                "api_query": ""
+            },
+            {
+                "user": "when did the last tour start?",
+                "system": "June 27, 1992",
+                "api_query": ""
+            },
+            {
+                "user": "who were its broadcasters?",
+                "system": "HBO and BBC",
+                "api_query": ""
+            },
+            {
+                "user": "describe something about the former broadcaster?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "where did the dangerous world tour take place?",
+                "system": "Oslo, Norway and Bucharest, Romania, etc.",
+                "api_query": ""
+            },
+            {
+                "user": "in which super bowl halftime show was it performed?",
+                "system": "Super Bowl XXVII halftime show",
+                "api_query": ""
+            },
+            {
+                "user": "when was the above super bowl organized?",
+                "system": "January 31, 1993",
+                "api_query": ""
+            },
+            {
+                "user": "any controversy that took place on that occasion?",
+                "system": "Yes",
+                "api_query": ""
+            },
+            {
+                "user": "what was it?",
+                "system": "NFL was to determine a host city for Super Bowl XXVII, Tempe was awarded the game, but committee warned that if the MLK Day ballot initiative went against adoption of the holiday, the NFL would pull the game and move it somewhere else.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "who won the bowl?",
+                "system": "Dallas Cowboys",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "and who was the runner-up?",
+                "system": "Buffalo Bills",
+                "api_query": ""
+            },
+            {
+                "user": "who were the broadcasters of the super bowl?",
+                "system": "NBC",
+                "api_query": ""
+            }
+        ]
+    },
+    "conversation_16": {
+        "log": [
+            {
+                "user": "when did the first episode of sesame street air",
+                "system": "10 November 1969.",
+                "api_query": ""
+            },
+            {
+                "user": "is it a series?",
+                "system": "Yes, an educational children's television series.",
+                "api_query": ""
+            },
+            {
+                "user": "is the series still running?",
+                "system": "Yes, it is on its second run.",
+                "api_query": ""
+            },
+            {
+                "user": "when was the pilot episode done?",
+                "system": "July 1969.",
+                "api_query": ""
+            },
+            {
+                "user": "is it a puppet show?",
+                "system": "Yes.",
+                "api_query": ""
+            },
+            {
+                "user": "name a few characters from the series?",
+                "system": "Human characters included Susan and muppet characters included Elmo.",
+                "api_query": ""
+            },
+            {
+                "user": "can you name more muppet characters?",
+                "system": "Big Bird and Oscar the Grouch.",
+                "api_query": ""
+            },
+            {
+                "user": "how do the latter look like?",
+                "system": "He has a green body with no visible nose.",
+                "api_query": ""
+            },
+            {
+                "user": "does the muppet perform any oscar related play?",
+                "system": "UNANSWERABLE",
+                "api_query": ""
+            },
+            {
+                "user": "who performed the aforementioned bird muppet?",
+                "system": "It was performed by Caroll Spinney till his retirement.",
+                "api_query": ""
+            },
+            {
+                "user": "who is he by profession?",
+                "system": "He was an American puppeteer, cartoonist, author and speaker.",
+                "api_query": ""
+            },
+            {
+                "user": "did he do comics too?",
+                "system": "Yes, a comic strip about military life.",
+                "api_query": "[QA]"
+            },
+            {
+                "user": "what is the name of the comic?",
+                "system": "\"Harvey\".",
+                "api_query": ""
+            },
+            {
+                "user": "when did he die?",
+                "system": "8 December 2019.",
+                "api_query": ""
+            },
+            {
+                "user": "was he commemorated in any way?",
+                "system": "He received the National Academy of Television Arts and Sciences' Lifetime Achievement Award and a full length documentary has been made on him.",
+                "api_query": "[QA]"
+            }
+        ]
+    }
+}

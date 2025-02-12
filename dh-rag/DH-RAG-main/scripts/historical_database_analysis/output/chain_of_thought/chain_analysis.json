@@ -1,0 +1,116 @@
+{
+  "total_chains": 373,
+  "avg_chain_length": 1.7345844504021448,
+  "chain_samples": [
+    [
+      {
+        "query": "What is currently the most suitable minimum package offered by your company?",
+        "response": "Dear customer, hello. The current lowest package is 8 RMB. There are two types of choose-as-you-like packages. The first one is an 8 RMB voice plan. The monthly fee is 8 RMB, which includes 30 minutes of domestic outgoing calls for the current month. Exceeding part will cost 0.25 RMB per minute for domestic outgoing calls, while incoming calls are free. Caller ID display is provided for free. The second one is an 8 RMB data plan. The monthly fee is 8 RMB, including 100MB of domestic mobile data for the current month. Domestic outgoing calls will cost 0.25 RMB per minute, and exceeding part of domestic mobile data will cost 0.29 RMB per MB. Caller ID display is also provided for free.",
+        "topic": "subscription"
+      }
+    ],
+    [
+      {
+        "query": "What is currently the most suitable minimum package offered by your company?",
+        "response": "Dear customer, hello. The current lowest package is 8 RMB. There are two types of choose-as-you-like packages. The first one is an 8 RMB voice plan. The monthly fee is 8 RMB, which includes 30 minutes of domestic outgoing calls for the current month. Exceeding part will cost 0.25 RMB per minute for domestic outgoing calls, while incoming calls are free. Caller ID display is provided for free. The second one is an 8 RMB data plan. The monthly fee is 8 RMB, including 100MB of domestic mobile data for the current month. Domestic outgoing calls will cost 0.25 RMB per minute, and exceeding part of domestic mobile data will cost 0.29 RMB per MB. Caller ID display is also provided for free.",
+        "topic": "subscription"
+      },
+      {
+        "query": "Besides this, is there a minimum package that includes data?",
+        "response": "Hello, thank you for your patience. The 4G self-selected package is composed of internet data and voice calling packages, and you must choose one from each. Data: 10 yuan for 1G (2022 version), 30 yuan for 5GB (2022 version), 50 yuan for 10GB (2022 version), 80 yuan for 20GB, 100 yuan for 30G, 120 yuan for 40G, and so on. Voice Calls: The lowest is 8 yuan for 0 minutes, with calls costing 0.19 yuan/minute, while other options are 18 yuan for 50 minutes, 28 yuan for 100 minutes, 48 yuan for 220 minutes, 58 yuan for 300 minutes, 68 yuan for 360 minutes, 88 yuan for 500 minutes. In addition: Caller ID is free. Nationwide incoming calls are free. Excess data is charged at 0.29 yuan/M, and domestic calls are 0.19 yuan/minute. There is also a 1G package for 18 yuan.",
+        "topic": "subscription"
+      }
+    ],
+    [
+      {
+        "query": "What is currently the most suitable minimum package offered by your company?",
+        "response": "Dear customer, hello. The current lowest package is 8 RMB. There are two types of choose-as-you-like packages. The first one is an 8 RMB voice plan. The monthly fee is 8 RMB, which includes 30 minutes of domestic outgoing calls for the current month. Exceeding part will cost 0.25 RMB per minute for domestic outgoing calls, while incoming calls are free. Caller ID display is provided for free. The second one is an 8 RMB data plan. The monthly fee is 8 RMB, including 100MB of domestic mobile data for the current month. Domestic outgoing calls will cost 0.25 RMB per minute, and exceeding part of domestic mobile data will cost 0.29 RMB per MB. Caller ID display is also provided for free.",
+        "topic": "subscription"
+      },
+      {
+        "query": "Besides this, is there a minimum package that includes data?",
+        "response": "Hello, thank you for your patience. The 4G self-selected package is composed of internet data and voice calling packages, and you must choose one from each. Data: 10 yuan for 1G (2022 version), 30 yuan for 5GB (2022 version), 50 yuan for 10GB (2022 version), 80 yuan for 20GB, 100 yuan for 30G, 120 yuan for 40G, and so on. Voice Calls: The lowest is 8 yuan for 0 minutes, with calls costing 0.19 yuan/minute, while other options are 18 yuan for 50 minutes, 28 yuan for 100 minutes, 48 yuan for 220 minutes, 58 yuan for 300 minutes, 68 yuan for 360 minutes, 88 yuan for 500 minutes. In addition: Caller ID is free. Nationwide incoming calls are free. Excess data is charged at 0.29 yuan/M, and domestic calls are 0.19 yuan/minute. There is also a 1G package for 18 yuan.",
+        "topic": "subscription"
+      },
+      {
+        "query": "What else? How much does ten gigabytes cost?",
+        "response": "The 10G plan is priced at 58 yuan. You can switch to the 59-yuan plan. The Mobile Flower Card Treasure Edition Monthly Rental Plan is priced at 59 yuan, which includes 30GB of dedicated data, 15GB of general data, and the ability to add up to 4 family numbers for free calls. Outside of the package, voice calls are 0.1 yuan per minute, and data is 5 yuan for 1GB.",
+        "topic": "subscription"
+      }
+    ],
+    [
+      {
+        "query": "What is currently the most suitable minimum package offered by your company?",
+        "response": "Dear customer, hello. The current lowest package is 8 RMB. There are two types of choose-as-you-like packages. The first one is an 8 RMB voice plan. The monthly fee is 8 RMB, which includes 30 minutes of domestic outgoing calls for the current month. Exceeding part will cost 0.25 RMB per minute for domestic outgoing calls, while incoming calls are free. Caller ID display is provided for free. The second one is an 8 RMB data plan. The monthly fee is 8 RMB, including 100MB of domestic mobile data for the current month. Domestic outgoing calls will cost 0.25 RMB per minute, and exceeding part of domestic mobile data will cost 0.29 RMB per MB. Caller ID display is also provided for free.",
+        "topic": "subscription"
+      },
+      {
+        "query": "Besides this, is there a minimum package that includes data?",
+        "response": "Hello, thank you for your patience. The 4G self-selected package is composed of internet data and voice calling packages, and you must choose one from each. Data: 10 yuan for 1G (2022 version), 30 yuan for 5GB (2022 version), 50 yuan for 10GB (2022 version), 80 yuan for 20GB, 100 yuan for 30G, 120 yuan for 40G, and so on. Voice Calls: The lowest is 8 yuan for 0 minutes, with calls costing 0.19 yuan/minute, while other options are 18 yuan for 50 minutes, 28 yuan for 100 minutes, 48 yuan for 220 minutes, 58 yuan for 300 minutes, 68 yuan for 360 minutes, 88 yuan for 500 minutes. In addition: Caller ID is free. Nationwide incoming calls are free. Excess data is charged at 0.29 yuan/M, and domestic calls are 0.19 yuan/minute. There is also a 1G package for 18 yuan.",
+        "topic": "subscription"
+      },
+      {
+        "query": "What else? How much does ten gigabytes cost?",
+        "response": "The 10G plan is priced at 58 yuan. You can switch to the 59-yuan plan. The Mobile Flower Card Treasure Edition Monthly Rental Plan is priced at 59 yuan, which includes 30GB of dedicated data, 15GB of general data, and the ability to add up to 4 family numbers for free calls. Outside of the package, voice calls are 0.1 yuan per minute, and data is 5 yuan for 1GB.",
+        "topic": "subscription"
+      },
+      {
+        "query": "Are there any promotions or discounts on data usage?",
+        "response": "Dear, you can check through the link to see if there are any discount promotions. The specified grade traffic upgrade includes the following package/activity processing (whether it can be processed is subject to the page display): 2. Traffic package upgrade activity page: http://wap.js.10086.cn/TCYH.thl. You can check to see if there are any activities, dear.",
+        "topic": "subscription"
+      }
+    ],
+    [
+      {
+        "query": "What does this targeted traffic mean? Can it be used with any app?",
+        "response": "Dear, it refers to the data usage of specific apps. Designated data free apps include: China Mobile's premium apps (6): Migu Video, Migu Live (app discontinued as of [time]), Migu Music, Migu Reading, Migu Quick Play, MM App Store, and Colorful Cloud. Alibaba group (10): Youku, Mobile Taobao, Taobao Live, Mobile Tmall, Alipay, DingTalk, Koubei, Xianyu, Juhuasuan, and Ant Wealth. Baidu group (21): Baidu, iQIYI, Baidu Maps, Mobile Assistant, Baidu Input Method, Good Looking Videos, Baidu Tieba, Baidu Document, Baidu Translation, Baidu Nuomi, Baidu Encyclopedia, Seconds Understand Baidu, Baidu Sense, Duxiao (Quanmin Small Video). iQIYI includes iQIYI, iQIYI Suike, iQIYI Bubble, iQIYI Babu, iQIYI Knowledge, iQIYI Comic, Qixiu, and TV Fruit. TikTok group (19): TikTok, TikTok Speed Edition, Today's Headlines, Watermelon, Volcano Short Video (TikTok Volcano Edition), Pipi Shrimp, Understand Car Emperor, FaceU, Light Face Camera, Flights, Flying Chat, DuoShine, TuChong, GoGoKid, Time Album, Half Dimension, Dolphin Stock, Dolphin Wealth, Good Study. NetEase (29): One Dream Rivers and Lakes, Legends of the West, War Peaceful Capital, Fantasy Westward Journey, Beauty Ghost, Onmyoji, NetEase God, Tang Dynasty Warriors, Fifth Man, Non-Human Academy, Pioneer Island, Land of Light, Flowers and Swords, Wilderness Survival, Meteor Cult, Domination of the land, Dream Westward Journey 3D, Mystery Showdown, Day After Tomorrow, Power Struggle, Night Shift Capital, Live Football, Tank World Blitz, The world, Everlasting Seven Days Capital, Zhan Guo Zhi, Demon Qu, Three Kingdoms Dragon Biography, Quantum Special Attack. Tencent group (7): Mobile QQ, Tencent Video, Peace Elite, Accelerator, Kuwakuwo, Kugou, QQ Music. Vivo (6): vivo App Store, vivo Game Center, i music, i theme, vivo official website, vivo mall. Others (6): Bilibili, Kwai (including Kwai Speed Edition), Mango TV, Himalaya, Sina Weibo, NetEase Music. Please check.",
+        "topic": "general"
+      }
+    ],
+    [
+      {
+        "query": "Why can't I use the 15G designated data package I've activated on Bilibili? I'm still using my own data.",
+        "response": "Dear, do you experience redirection to other websites when using? Bilibili targeted traffic usage instructions: (1) To use the free traffic service, you need to upgrade the bilibili client to 549 or 5.49 and higher, and ensure it's an official genuine APP. Under China Mobile's 2G/3G/4G/5G network, when accessing video playback, live broadcasts, pictures, video buffering, audio playback, audio caching, static resources, ads, apk download (only for Android game & application upgrade; iOS not supported), video upload (including short videos) in bilibili app, you can use the free traffic service. (2) Opening webpages (such as topic pages, event pages, feature pages, etc.) within the client does not support free traffic. (3) The comic section within the bilibili APP, starting a live broadcast, and bullet screen masks temporarily do not support free traffic. (4) Free traffic is not supported when using non-mobile devices such as wireless internet cards, tablets (such as iPad), CPE, MIFI etc. (5) Free traffic service is not supported when the mobile number is used as a mobile hotspot. (6) Free traffic cannot be guaranteed when using mobile settings proxy servers or VPN tools. (7) Please use the free traffic function with the WiFi feature switched off to avoid frequent switching between WiFi and mobile networks which may cause the free traffic service to fail. (8) Free traffic is not supported when using the bilibili client in international or Hong Kong, Macao, and Taiwan regions. (9) Free traffic is not supported when using CMWAP access point mode.",
+        "topic": "data_plan"
+      }
+    ],
+    [
+      {
+        "query": "Is there any cheaper and more cost-effective package? It would only be used during student holidays.",
+        "response": "Hello, the custom package is composed of internet data and voice call package, each of which must be chosen. Data: 10 yuan for 1GB; 30 yuan for 5GB; 50 yuan for 10GB; 80 yuan for 20GB; 100 yuan for 30GB, etc. Voice Calls: 8 yuan for 0 minutes; 18 yuan includes 50 minutes, 28 yuan includes 100 minutes, 48 yuan includes 220 minutes, 58 yuan includes 300 minutes, 68 yuan includes 360 minutes, 88 yuan includes 500 minutes, 108 yuan includes 620 minutes, 138 yuan includes 800 minutes, 168 yuan includes 1000 minutes, 238 yuan includes 2000 minutes, 328 yuan includes 3000 minutes, 408 yuan includes 4000 minutes. You can choose freely. Free Caller ID, no charge for domestic calls received, over-package data is 0.29 yuan/MB, domestic calls are 0.19 yuan/minute.",
+        "topic": "subscription"
+      }
+    ],
+    [
+      {
+        "query": "Is there any cheaper and more cost-effective package? It would only be used during student holidays.",
+        "response": "Hello, the custom package is composed of internet data and voice call package, each of which must be chosen. Data: 10 yuan for 1GB; 30 yuan for 5GB; 50 yuan for 10GB; 80 yuan for 20GB; 100 yuan for 30GB, etc. Voice Calls: 8 yuan for 0 minutes; 18 yuan includes 50 minutes, 28 yuan includes 100 minutes, 48 yuan includes 220 minutes, 58 yuan includes 300 minutes, 68 yuan includes 360 minutes, 88 yuan includes 500 minutes, 108 yuan includes 620 minutes, 138 yuan includes 800 minutes, 168 yuan includes 1000 minutes, 238 yuan includes 2000 minutes, 328 yuan includes 3000 minutes, 408 yuan includes 4000 minutes. You can choose freely. Free Caller ID, no charge for domestic calls received, over-package data is 0.29 yuan/MB, domestic calls are 0.19 yuan/minute.",
+        "topic": "subscription"
+      },
+      {
+        "query": "What cost-effective packages are available for activating a new card?",
+        "response": "The \"Mobile Flower Card Treasure Edition Monthly Rental Plan\" at 29 Yuan includes 30GB of targeted data, a national family plan (common payment version) fee (5 Yuan/month). Calls outside the plan cost 0.1 Yuan/minute; data outside the plan costs 5 Yuan for 1GB, billed cyclically. The \"Mobile Flower Card Treasure Edition Monthly Rental Plan\" at 39 Yuan includes 30GB of targeted data, 5GB of general data, and allows up to 4 additional family numbers to call each other for free. Calls outside the plan cost 0.1 Yuan/minute, data is 5 Yuan per 1GB. For the \"Mobile Flower Card Treasure Edition Monthly Rental 30GB targeted and 15GB general for 59 Yuan Plan\", and the \"Mobile Flower Card Treasure Edition Monthly Rental 30GB targeted and 15GB general for 59 Yuan Plan\" details: this 59 Yuan plan includes 30GB of targeted data, 15GB of general data, and allows up to 4 additional family numbers to call each other for free. Calls outside the plan cost 0.1 Yuan/minute, data is 5 Yuan per 1GB. You may consider the aforementioned Treasure Card.",
+        "topic": "subscription"
+      }
+    ],
+    [
+      {
+        "query": "Human Assistance. My data is running out, can you give me some data?",
+        "response": "Please hold on for a moment while I'm checking this. Thank you for your patience. Dear, there now offers a directed data flow promotion: with the versatile membership service, you have the privilege to choose 1 from 6, along with an extra 15GB designated data. The membership includes: Migu Video, iQIYI, Youku, Bilibili, Tencent Video, Mango TV; this 6 apps share a total of 15GB designated data. It will take effect immediately once activated, at the cost of 1 yuan for the first month, and will then be restored to the original price of 19.9 yuan/month from the second month.",
+        "topic": "data_plan"
+      }
+    ],
+    [
+      {
+        "query": "Human Assistance. My data is running out, can you give me some data?",
+        "response": "Please hold on for a moment while I'm checking this. Thank you for your patience. Dear, there now offers a directed data flow promotion: with the versatile membership service, you have the privilege to choose 1 from 6, along with an extra 15GB designated data. The membership includes: Migu Video, iQIYI, Youku, Bilibili, Tencent Video, Mango TV; this 6 apps share a total of 15GB designated data. It will take effect immediately once activated, at the cost of 1 yuan for the first month, and will then be restored to the original price of 19.9 yuan/month from the second month.",
+        "topic": "data_plan"
+      },
+      {
+        "query": "Can you please send me some data? It's quite expensive.",
+        "response": "Dear, there's another directional traffic query: during the event, users can claim a MiGu Video traffic package worth 50 yuan for 200GB, which is free of charge (you need to participate in the MiGu Video 200GB exclusive traffic package marketing event). You can participate once a month, and it will automatically expire at the end of the month.",
+        "topic": "data_plan"
+      }
+    ]
+  ]
+}

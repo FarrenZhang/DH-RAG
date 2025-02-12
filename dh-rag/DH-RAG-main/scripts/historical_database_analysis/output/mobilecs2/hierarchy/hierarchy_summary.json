@@ -1,0 +1,127 @@
+{
+  "cluster_stats": {
+    "0": {
+      "total_unique_queries": 23,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "What kind of plan can I change to? Is there any within a monthly fee of 50, with 10GB of data per month?",
+        "Is there a cheaper monthly plan with more data?",
+        "Could you recommend a plan for me, without the need for broadband?",
+        "What kinds of data-heavy plans do you currently offer?",
+        "The 128 plan is too expensive. Every month, I still have unused data, but the money has been deducted. I have no idea how it's deducted. Can we switch to a plan around 30G? I no longer want to use the 128 one."
+      ]
+    },
+    "1": {
+      "total_unique_queries": 17,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "My current plan costs 20 yuan per month, but I don't receive any data every month. For instance, are there any other plans available?",
+        "It seems to be 20 yuan/30G. Why are others able to process it?",
+        "Isn't it the 20 yuan data package that is displayed?",
+        "I don't want to dwell on this. If there are no better discounts, just switch to the 8 yuan package. What is the process for porting my number now?",
+        "Takes effect next month. Flower Card. 29 yuan Flower Card package."
+      ]
+    },
+    "2": {
+      "total_unique_queries": 69,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "Why can't I use the 15G designated data package I've activated on Bilibili? I'm still using my own data.",
+        "What cost-effective packages are available for activating a new card?",
+        "Is this mobile cloud drive to be downloaded?",
+        "Hello, could you please help me change 8 voice to Number Protection 8, 30 minutes, with all other settings remaining the same.",
+        "It's also a mobile app. May I ask what cost-effective data plans I can activate? I still have 8 yuan voice credit for the next month."
+      ]
+    },
+    "3": {
+      "total_unique_queries": 25,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "Traffic within ten.",
+        "Which apps are designated as directed traffic?",
+        "Are there no other preferential packages? This directed traffic is also useless.",
+        "What does the directed traffic package include?",
+        "With higher traffic."
+      ]
+    },
+    "4": {
+      "total_unique_queries": 50,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "Besides this, is there a minimum package that includes data?",
+        "Are there any promotions or discounts on data usage?",
+        "Is there any promotion available for my data package?",
+        "Data Package",
+        "What kind of data packages are available in [place name]?"
+      ]
+    },
+    "5": {
+      "total_unique_queries": 39,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "Human Assistance. My data is running out, can you give me some data?",
+        "Can you please send me some data? It's quite expensive.",
+        "Can data be gifted?",
+        "Can this data be used as long as you scroll through TikTok?",
+        "More data is preferred, having call duration is sufficient, it doesn't matter if it's a bit shorter."
+      ]
+    },
+    "6": {
+      "total_unique_queries": 39,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "Do you have 29?",
+        "All right.",
+        "Isn't it universally applicable across the country?",
+        "Isn't there the kind that can be used continuously?",
+        "Yes. Could you please remind me of the specifics inside? I seem to have forgotten."
+      ]
+    },
+    "7": {
+      "total_unique_queries": 17,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "What does this targeted traffic mean? Can it be used with any app?",
+        "Alright. What does the targeted traffic package include?",
+        "Which is the targeted traffic?",
+        "Alright, let's proceed this way. Which app can be used for targeted traffic?",
+        "Target which apps."
+      ]
+    },
+    "8": {
+      "total_unique_queries": 32,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "What else? How much does ten gigabytes cost?",
+        "Original price 20? Do you have a bit more?",
+        "Insufficient.",
+        "Is there any normal ones? Like, how much price for how many GBs.",
+        "No, it's too expensive."
+      ]
+    },
+    "9": {
+      "total_unique_queries": 51,
+      "total_responses": 0,
+      "avg_frequency": 0.0,
+      "queries_sample": [
+        "What is currently the most suitable minimum package offered by your company?",
+        "Is there any cheaper and more cost-effective package? It would only be used during student holidays.",
+        "What packages are available?",
+        "Are there any recommended good packages available?",
+        "Are all of these available for free?"
+      ]
+    }
+  },
+  "total_unique_queries": 362,
+  "query_frequency_distribution": {},
+  "context_analysis": {}
+}
